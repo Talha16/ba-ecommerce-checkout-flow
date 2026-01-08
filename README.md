@@ -15,3 +15,13 @@ The project is designed to:
 - Functional and non-functional requirements
 - User stories with acceptance criteria
 - Edge cases and business rules
+
+## Delivery Artifacts Included
+- Business context and scope definition
+- High-level checkout process flow
+- Functional requirements
+- Agile user stories with acceptance criteria
+- Edge cases and business rules
+- Requirements-to-story traceability
+
+This structure mirrors how Business Analysts support Agile delivery teams in real-world projects.
